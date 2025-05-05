@@ -16,8 +16,8 @@
 | 4 | Maximum Product of Three Numbers | Easy | [🔗](https://leetcode.com/problems/maximum-product-of-three-numbers/) | [✅] |
 | 5 | Search in Rotated Sorted Array | Medium | [🔗](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [✅] |
 | 6 | Sort Colors | Medium | [🔗](https://leetcode.com/problems/sort-colors/) | [✅] |
-| 7 | Kth Largest Element in an Array | Medium | [🔗](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [ ] |
-| 8 | Top K Frequent Elements | Medium | [🔗](https://leetcode.com/problems/top-k-frequent-elements/) | [ ] |
+| 7 | Kth Largest Element in an Array | Medium | [🔗](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [✅]|
+| 8 | Top K Frequent Elements | Medium | [🔗](https://leetcode.com/problems/top-k-frequent-elements/) | [✅]|
 | 9 | Median of Two Sorted Arrays | Hard | [🔗](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [ ] |
 | 10 | Merge k Sorted Lists | Hard | [🔗](https://leetcode.com/problems/merge-k-sorted-lists/) | [ ] |
 
@@ -27,8 +27,8 @@
 
 | # | Problem | Difficulty | Link | Status |
 |--|---------|------------|------|--------|
-| 1 | Maximum Average Subarray I | Easy | [🔗](https://leetcode.com/problems/maximum-average-subarray-i/) | [ ] |
-| 2 | Best Time to Buy and Sell Stock | Easy | [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [ ] |
+| 1 | Maximum Average Subarray I | Easy | [🔗](https://leetcode.com/problems/maximum-average-subarray-i/) | [✅] |
+| 2 | Best Time to Buy and Sell Stock | Easy | [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [✅]  |
 | 3 | Contains Duplicate II | Easy | [🔗](https://leetcode.com/problems/contains-duplicate-ii/) | [ ] |
 | 4 | Minimum Size Subarray Sum | Medium | [🔗](https://leetcode.com/problems/minimum-size-subarray-sum/) | [ ] |
 | 5 | Longest Substring Without Repeating Characters | Medium | [🔗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [ ] |
