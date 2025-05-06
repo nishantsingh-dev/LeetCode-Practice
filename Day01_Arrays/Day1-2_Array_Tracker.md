@@ -29,9 +29,9 @@
 |--|---------|------------|------|--------|
 | 1 | Maximum Average Subarray I | Easy | [🔗](https://leetcode.com/problems/maximum-average-subarray-i/) | [✅] |
 | 2 | Best Time to Buy and Sell Stock | Easy | [🔗](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [✅]  |
-| 3 | Contains Duplicate II | Easy | [🔗](https://leetcode.com/problems/contains-duplicate-ii/) | [ ] |
-| 4 | Minimum Size Subarray Sum | Medium | [🔗](https://leetcode.com/problems/minimum-size-subarray-sum/) | [ ] |
-| 5 | Longest Substring Without Repeating Characters | Medium | [🔗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [ ] |
+| 3 | Contains Duplicate II | Easy | [🔗](https://leetcode.com/problems/contains-duplicate-ii/) | [✅] |
+| 4 | Minimum Size Subarray Sum | Medium | [🔗](https://leetcode.com/problems/minimum-size-subarray-sum/) | [✅] |
+| 5 | Longest Substring Without Repeating Characters | Medium | [🔗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [✅] |
 | 6 | Permutation in String | Medium | [🔗](https://leetcode.com/problems/permutation-in-string/) | [ ] |
 | 7 | Sliding Window Maximum | Hard | [🔗](https://leetcode.com/problems/sliding-window-maximum/) | [ ] |
 | 8 | Subarrays with K Different Integers | Hard | [🔗](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [ ] |
