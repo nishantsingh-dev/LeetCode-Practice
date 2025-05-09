@@ -33,6 +33,6 @@
 | 4 | Minimum Size Subarray Sum | Medium | [🔗](https://leetcode.com/problems/minimum-size-subarray-sum/) | [✅] |
 | 5 | Longest Substring Without Repeating Characters | Medium | [🔗](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [✅] |
 | 6 | Permutation in String | Medium | [🔗](https://leetcode.com/problems/permutation-in-string/) | [✅]  |
-| 7 | Sliding Window Maximum | Hard | [🔗](https://leetcode.com/problems/sliding-window-maximum/) | [ ] |
-| 8 | Subarrays with K Different Integers | Hard | [🔗](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [ ] |
+| 7 | Sliding Window Maximum | Hard | [🔗](https://leetcode.com/problems/sliding-window-maximum/) | [✅] |
+| 8 | Subarrays with K Different Integers | Hard | [🔗](https://leetcode.com/problems/subarrays-with-k-different-integers/) | [✅] |
 | 9 | Longest Substring with At Most K Distinct Characters | Hard | [🔗](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) | [ ] |
