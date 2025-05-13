@@ -12,7 +12,7 @@
 |--|---------|-------|------------|------|--------|
 | 1 | Valid Palindrome | Palindrome | Easy | [🔗](https://leetcode.com/problems/valid-palindrome/) | [✅] |
 | 2 | Palindrome Number | Palindrome | Easy | [🔗](https://leetcode.com/problems/palindrome-number/) | [✅] |
-| 3 | Longest Palindromic Substring | Palindrome | Medium | [🔗](https://leetcode.com/problems/longest-palindromic-substring/) | [ ] |
+| 3 | Longest Palindromic Substring | Palindrome | Medium | [🔗](https://leetcode.com/problems/longest-palindromic-substring/) | [✅] |
 | 4 | Palindromic Substrings | Palindrome | Medium | [🔗](https://leetcode.com/problems/palindromic-substrings/) | [ ] |
 | 5 | Valid Anagram | Anagram | Easy | [🔗](https://leetcode.com/problems/valid-anagram/) | [ ] |
 | 6 | Group Anagrams | Anagram | Medium | [🔗](https://leetcode.com/problems/group-anagrams/) | [ ] |
