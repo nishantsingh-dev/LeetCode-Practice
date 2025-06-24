@@ -9,12 +9,12 @@
 
 | # | Problem | Topic | Difficulty | Link | Status |
 |--|---------|-------|------------|------|--------|
-| 1 | Reverse Linked List | Reverse | Easy | [🔗](https://leetcode.com/problems/reverse-linked-list/) | [ ] |
-| 2 | Merge Two Sorted Lists | Merge | Easy | [🔗](https://leetcode.com/problems/merge-two-sorted-lists/) | [ ] |
-| 3 | Linked List Cycle | Cycle Detection | Easy | [🔗](https://leetcode.com/problems/linked-list-cycle/) | [ ] |
-| 4 | Middle of the Linked List | Middle Node | Easy | [🔗](https://leetcode.com/problems/middle-of-the-linked-list/) | [ ] |
-| 5 | Remove Nth Node From End of List | Pointer Manipulation | Medium | [🔗](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [ ] |
-| 6 | Add Two Numbers | Linked List Math | Medium | [🔗](https://leetcode.com/problems/add-two-numbers/) | [ ] |
+| 1 | Reverse Linked List | Reverse | Easy | [🔗](https://leetcode.com/problems/reverse-linked-list/) | [✅] |
+| 2 | Merge Two Sorted Lists | Merge | Easy | [🔗](https://leetcode.com/problems/merge-two-sorted-lists/) | [✅] |
+| 3 | Linked List Cycle | Cycle Detection | Easy | [🔗](https://leetcode.com/problems/linked-list-cycle/) | [✅] |
+| 4 | Middle of the Linked List | Middle Node | Easy | [🔗](https://leetcode.com/problems/middle-of-the-linked-list/) | [✅] |
+| 5 | Remove Nth Node From End of List | Pointer Manipulation | Medium | [🔗](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [✅] |
+| 6 | Add Two Numbers | Linked List Math | Medium | [🔗](https://leetcode.com/problems/add-two-numbers/) | [✅] |
 
 ---
 

@@ -11,16 +11,16 @@
 | # | Problem | Difficulty | Link | Status |
 |--|---------|------------|------|--------|
 | 1 | Factorial of a Number | Easy | [🔗](https://leetcode.com/problems/factorial-trailing-zeroes/) | [✅] |
-| 2 | Fibonacci Number | Easy | [🔗](https://leetcode.com/problems/fibonacci-number/) | [ ] |
-| 3 | Reverse String | Easy | [🔗](https://leetcode.com/problems/reverse-string/) | [ ] |
-| 4 | Pow(x, n) | Medium | [🔗](https://leetcode.com/problems/powx-n/) | [ ] |
+| 2 | Fibonacci Number | Easy | [🔗](https://leetcode.com/problems/fibonacci-number/) | [✅] |
+| 3 | Reverse String | Easy | [🔗](https://leetcode.com/problems/reverse-string/) | [✅] |
+| 4 | Pow(x, n) | Medium | [🔗](https://leetcode.com/problems/powx-n/) | [✅] |
 | 5 | Recursion Depth - Tail vs Head | - | [🔗](https://www.geeksforgeeks.org/introduction-to-recursion-data-structure-and-algorithm-tutorials/) | [ ] |
 
 ---
 
 ## ✅ Step 2: Intro to Backtracking
 
-| # | Problem | Difficulty | Link | Status |
+| # | Problem | Difficulty | Link | Status |  
 |--|---------|------------|------|--------|
 | 1 | Subsets | Medium | [🔗](https://leetcode.com/problems/subsets/) | [ ] |
 | 2 | Permutations | Medium | [🔗](https://leetcode.com/problems/permutations/) | [ ] |
