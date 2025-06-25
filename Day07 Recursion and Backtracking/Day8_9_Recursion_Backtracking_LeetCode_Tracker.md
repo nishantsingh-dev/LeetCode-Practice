@@ -23,7 +23,7 @@
 | # | Problem | Difficulty | Link | Status |  
 |--|---------|------------|------|--------|
 | 1 | Subsets | Medium | [🔗](https://leetcode.com/problems/subsets/) | [✅] |
-| 2 | Permutations | Medium | [🔗](https://leetcode.com/problems/permutations/) | [ ] |
+| 2 | Permutations | Medium | [🔗](https://leetcode.com/problems/permutations/) | [✅] |
 | 3 | Letter Combinations of a Phone Number | Medium | [🔗](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [ ] |
 | 4 | Combination Sum | Medium | [🔗](https://leetcode.com/problems/combination-sum/) | [ ] |
 | 5 | Generate Parentheses | Medium | [🔗](https://leetcode.com/problems/generate-parentheses/) | [ ] |
