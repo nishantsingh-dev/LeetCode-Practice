@@ -11,9 +11,9 @@
 |--|---------|-------|------------|------|--------|
 | 1 | Valid Parentheses | Matching | Easy | [🔗](https://leetcode.com/problems/valid-parentheses/) | [✅] |
 | 2 | Min Stack | Design | Medium | [🔗](https://leetcode.com/problems/min-stack/) | [✅] |
-| 3 | Implement Queue using Stacks | Conversion | Easy | [🔗](https://leetcode.com/problems/implement-queue-using-stacks/) | [ ] |
-| 4 | Evaluate Reverse Polish Notation | Expression Eval | Medium | [🔗](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [ ] |
-| 5 | Remove All Adjacent Duplicates In String | Cleanup | Easy | [🔗](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [ ] |
+| 3 | Implement Queue using Stacks | Conversion | Easy | [🔗](https://leetcode.com/problems/implement-queue-using-stacks/) | [✅] |
+| 4 | Evaluate Reverse Polish Notation | Expression Eval | Medium | [🔗](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [✅] |
+| 5 | Remove All Adjacent Duplicates In String | Cleanup | Easy | [🔗](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [✅] |
 
 ---
 
@@ -21,11 +21,11 @@
 
 | # | Problem | Pattern | Difficulty | Link | Status |
 |--|---------|---------|------------|------|--------|
-| 1 | Next Greater Element I | Monotonic Stack | Easy | [🔗](https://leetcode.com/problems/next-greater-element-i/) | [ ] |
-| 2 | Next Greater Element II | Monotonic Stack (Circular) | Medium | [🔗](https://leetcode.com/problems/next-greater-element-ii/) | [ ] |
-| 3 | Daily Temperatures | Monotonic Stack | Medium | [🔗](https://leetcode.com/problems/daily-temperatures/) | [ ] |
-| 4 | Asteroid Collision | Stack Physics | Medium | [🔗](https://leetcode.com/problems/asteroid-collision/) | [ ] |
-| 5 | Largest Rectangle in Histogram | Stack Optimization | Hard | [🔗](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [ ] |
+| 1 | Next Greater Element I | Monotonic Stack | Easy | [🔗](https://leetcode.com/problems/next-greater-element-i/) | [✅] |
+| 2 | Next Greater Element II | Monotonic Stack (Circular) | Medium | [🔗](https://leetcode.com/problems/next-greater-element-ii/) | [✅] |
+| 3 | Daily Temperatures | Monotonic Stack | Medium | [🔗](https://leetcode.com/problems/daily-temperatures/) | [✅] |
+| 4 | Asteroid Collision | Stack Physics | Medium | [🔗](https://leetcode.com/problems/asteroid-collision/) | [✅] |
+| 5 | Largest Rectangle in Histogram | Stack Optimization | Hard | [🔗](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [✅] |
 
 ---
 
